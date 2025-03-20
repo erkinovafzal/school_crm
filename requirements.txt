@@ -1,0 +1,7 @@
+django 
+djangorestframework
+drf-spectacular 
+drf-spectacular-sidecar
+drf_yasg
+djangorestframework-simplejwt
+pillow
